@@ -1,0 +1,20 @@
+{
+  "name": "typescript-next-starter",
+  "version": "0.0.2",
+  "description": "Quick and Easy TypeScript NextJs Starter",
+  "author": "AGUMON <ljlm0402@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljlm0402/typescript-next-starter.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ljlm0402/typescript-next-starter/issues"
+  },
+  "homepage": "https://github.com/ljlm0402/typescript-next-starter#readme"
+}
